@@ -16,7 +16,7 @@
   "dependencies": {
     "geojson-stream": "0.0.1",
     "minimist": "^1.2.0",
-    "osmium": "^0.4.4",
+    "osmium": "^0.5.4",
     "underscore": "^1.8.3"
   },
   "bin": {
@@ -29,9 +29,8 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "eslint": "^1.10.3",
-    "nyc": "^5.5.0",
-    "tape": "^4.4.0",
-    "underscore": "^1.8.3"
+    "eslint": "^3.19.0",
+    "nyc": "^11.0.1",
+    "tape": "^4.4.0"
   }
 }
